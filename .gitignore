@@ -4,3 +4,4 @@ __pycache__/
 bookmarks/settings.py
 cert
 cert.key
+cert.crt
